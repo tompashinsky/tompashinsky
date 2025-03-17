@@ -8,6 +8,8 @@ Moreover, I've learned a lot about retrieving information and research thanks to
 
 - <b>2025</b>
   - [Online Furniture Store](https://github.com/Hadas-Schneider/Advanced-programming-project)
+- <b>2024</b>
+  - [Predicting chances of getting a job using a ML model](https://github.com/tompashinsky/Machine-Learning-Project/tree/main)
 
 <!--
 **tompashinsky/tompashinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
