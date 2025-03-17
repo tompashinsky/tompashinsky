@@ -4,7 +4,7 @@ During my studies I've acquired abilities in programming (Python, C), data analy
 Moreover, I've learned a lot about retrieving information and research thanks to my long-term hobby in genealogy. <br>
 <b>Looking for my first Junior job!</b>
 
-<h2>Software Development Projects</h2>
+<h2>:computer:Software Development Projects</h2>
 
 <!--
 **tompashinsky/tompashinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
