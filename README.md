@@ -5,6 +5,7 @@ Moreover, I've learned a lot about retrieving information and research thanks to
 <b>Looking for my first Junior job!</b>
 
 <h2>:computer: Software Development Projects</h2>
+
 - <b>2025</b>
   - [Online Furniture Store](https://github.com/Hadas-Schneider/Advanced-programming-project)
 
