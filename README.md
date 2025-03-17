@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Tom, a 3rd year student in Digital Sciences for High-Tech (Faculty of Engineering) and Management at Tel Aviv University.
+I'm Tom, a 3rd year student in Digital Sciences for High-Tech (Faculty of Engineering) and Management at Tel Aviv University. <br>
 During my studies I've acquired abilities in programming (Python, C), data analysis, data structures and algorithms.
 Moreover, I've learned a lot about retrieving information and research thanks to my long-term hobby in genealogy.
 Looking for my first Junior job!
