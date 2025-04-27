@@ -7,7 +7,7 @@ Moreover, I've learned a lot about retrieving information and research thanks to
 <h2>:computer: Software Development Projects</h2>
 
 - <b>2025</b>
-  - [AI-based computer games](https://github.com/tompashinsky/AI-based-computer-games)
+  - [AI-based Computer Games](https://github.com/tompashinsky/AI-based-computer-games)
   - [Online Furniture Store](https://github.com/Hadas-Schneider/Advanced-programming-project)
 - <b>2024</b>
   - [Predicting chances of getting a job using a ML model](https://github.com/tompashinsky/Machine-Learning-Project/tree/main)
