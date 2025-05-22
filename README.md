@@ -2,7 +2,6 @@
 I'm Tom, a 3rd year student in Digital Sciences for High-Tech & Management at Tel Aviv University. <br>
 During my studies I've acquired abilities in programming (Python, C), data analysis, data structures and algorithms. <br>
 Moreover, I've learned a lot about retrieving information and research thanks to my long-term hobby in genealogy. <br>
-<b>Looking to kickstart my professional career as a Junior Software Engineer!</b>
 
 <h2>:computer: Software Development Projects</h2>
 
