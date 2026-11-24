@@ -3,6 +3,11 @@ I'm Tom, a fresh graduate B.Sc in Digital Sciences for High-Tech & Management fr
 During my studies I've acquired abilities in programming (Python, C), data analysis, data structures and algorithms. <br>
 Moreover, I've learned a lot about retrieving information and research thanks to my long-term hobby in genealogy. <br>
 
+<h2>QA & Automation</h2>
+
+- <b>2026</b>
+  - Automation testing practice
+
 <h2>:computer: Software Development Projects</h2>
 
 - <b>2025</b>
