@@ -1,12 +1,12 @@
 ## Hi there! 👋
-I'm Tom, a fresh graduate B.Sc in Digital Sciences for High-Tech & Management from Tel Aviv University. <br>
-During my studies I've acquired abilities in programming (Python, C), data analysis, data structures and algorithms. <br>
-Moreover, I've learned a lot about retrieving information and research thanks to my long-term hobby in genealogy. <br>
+I'm Tom, a B.Sc graduate in Digital Sciences for High-Tech & Management from Tel Aviv University. <br>
+During my studies I've acquired abilities in programming (Python, C), data analysis and machine learning. <br>
+Below you can see my academic and personal projects: <br>
 
 <h2>QA & Automation</h2>
 
 - <b>2026</b>
-  - Automation testing practice
+  - [Automation testing practice](https://github.com/tompashinsky/Automation-exercise-playwright) (in progress)
 
 <h2>:computer: Software Development Projects</h2>
 
